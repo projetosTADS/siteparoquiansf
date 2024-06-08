@@ -2,7 +2,8 @@
 Projeto realizado junto a Paroquia Nossa Senhora de Fátima, residida no município de Franco da Rocha, SP.  
 Alunos presentes nesse projeto: Lucas Gabriel de Almeida Rodrigues (RA:923102166), Lucas Luiz Melo da Silva (RA:923108658) e Yann W Santana (RA:923106990)
 
-Link youtube : https://youtu.be/gsWcwARXo80?si=1LnZxarrlQGrjd-E
+Link youtube: https://youtu.be/gsWcwARXo80?si=1LnZxarrlQGrjd-E
+Link hospedagem: https://www.paroquiansf.com/
 
 
 O intuito da realização desse projeto é facilitar o acesso às informações importantes para os membros e visitantes da igreja. Ter centralização de conteúdos, onde o site serve como um ponto central onde todas as informações podem ser encontradas e Automatização dos processos para a Secretaria Paroquial.
